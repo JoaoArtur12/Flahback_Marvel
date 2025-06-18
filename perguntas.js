@@ -26,3 +26,8 @@ criaCartao(
     'Quais foram os primeiros vingadores?',
     'Homem-Formiga, Homem de Ferro, Thor, Vespa e Hulk'
 )
+criaCartao(
+    'Marvel',
+    'No filme "Homem-Aranha" de 2002, onde estava Peter Parker quando foi picado pela aranha que o transformou?',
+    'Em uma visita ao Laboratório de Genética na Columbia University, NY'
+)
