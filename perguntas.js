@@ -1,23 +1,28 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Marvel',
+    'Qual é o personagem, conhecido por ser sarcástico, engraçado, violento e imprevisível, que voltou para o Universo Marvel após a Disney comprar a Fox na última década?',
+    'Deadpool'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Marvel',
+    'No filme Vingadores: Ultimato, quais são as jóias do infinito que o Capitão América viaja no tempo para devolver aos seus lugares de origem?',
+    'Pedra do Tempo, Pedra da Realidade e Pedra do Poder'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Marvel',
+    'Qual foi o primeiro filme da Marvel?',
+    'Homem de Ferro'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Marvel',
+    'Qual o significado do nome Marvel?',
+    'Maravilha'
+)
+criaCartao(
+    'Marvel',
+    'Quais foram os primeiros vingadores?',
+    'Homem-Formiga, Homem de Ferro, Thor, Vespa e Hulk'
 )
